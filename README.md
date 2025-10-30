@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 zero2ai
+# ⚫ zero2ai
 
 > a tiny playground to **learn & build ai from scratch** — for fun, for curiosity, and for understanding 🤓
 
@@ -11,6 +11,8 @@
 ## 🌱 About
 
 **zero2ai** is my personal journey to explore **machine learning** and **deep learning** by re-implementing things from scratch — one building block at a time.
+
+I'm calling my code folder **`darth`** - because why not have some fun while learning the force of neural networks! 😄
 
 it’s not meant to be another framework — just a space to tinker, break things, and learn how the magic works behind the scenes.
 
