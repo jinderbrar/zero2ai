@@ -1,4 +1,8 @@
-from .activation import relu, sigmoid
+from . import activation as av
+from .activation import *
 
-
-__all__ = ['relu', 'sigmoid']
+__all__ = [
+    'av',
+    'ReLU',
+    'Sigmoid',
+]
